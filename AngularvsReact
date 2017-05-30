@@ -1,0 +1,57 @@
+-- Angular vs. React
+  *** Opening Arguments
+
+  ++ Angular Beginning Arguments
+    -- React position -- Features not the primary metric for why a framework is better
+    -- Angular position -- More jobs
+  ++ React Beginning Arguments
+    -- Angular -- complexity
+    -- React -- simplicity, clarity, modularity
+        * technical advantages
+      - single point of concern
+
+
+  *** Rebuttals
+    ++ Angular
+      -- React -- componentization, module driven
+      -- Angular -- out the box
+
+    ++ React
+      -- Angular -- its to difficult
+      -- React -- its just JS
+
+
+  *- why might a Junior Developer Choose your product
+    ++ React -- built on vanilla js. will be easier for junior
+    ++ Angular -- more of a supplement to existing standards, good docs
+
+  *- whats your Legacy Browser support Like
+    ++ Angular -- 1-2 was built to support ie9+, angular 2-4 uses Typescript which supports downwards well
+    ++ React -- shims, legacy support via Vanilla JS
+
+  *- Future Support, upgrade paths
+    ++ React -- Web Components
+    ++ Angular -- Typescript, Enterprise safe, validated
+
+
+  +++ Audience Questions
+    ++ Forms
+      React -- write components to bind form selector objects
+        -- angular - complicated
+      Angular -- two way binding
+        -- react -- custom components
+
+    ++ Debugging
+      Angular
+      -- Unit Testing, CLI, typescript strict types
+      React
+      -- Custom Tools, Jest?, type safety at compile time
+
+
+  +++ Closing arguments
+    React
+          -- Market share is small (jobs) but JS! -- not convincing
+          -- we're the future, we use web components, angular is using them see..
+    Angular
+          -- Simplicity, Opininated when it needs to be.
+          -- React, modularization is negligable
